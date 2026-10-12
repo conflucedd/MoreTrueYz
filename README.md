@@ -2,6 +2,8 @@
 
 > 让《塞尔达传说：旷野之息》里的**全部 38614 个 Yaz0 文件**都能被逐字节复现。
 
+Note that the botw I used is wiiu japan version, and patch the main game using update folder(I know this is not recommend).
+
 [TrueYZ](https://github.com/aboood40091/TrueYZ) 能复现任天堂 EAD/EPD 的 Yaz0 编码器输出，
 但用它跑一遍 BotW 的 `game/` + `dlc/`，只能复现 **37074 / 38614（96.01%）**。
 本仓库补上了剩下的 1540 个：

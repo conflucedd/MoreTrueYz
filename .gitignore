@@ -1,0 +1,13 @@
+# 构建产物
+/bin/
+*.exe
+
+# 运行产物
+failures.txt
+*.log
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+.DS_Store

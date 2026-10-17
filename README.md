@@ -67,7 +67,7 @@ MoreTrueYz/
 需要 Go（1.18+）和一个 C 编译器（cgo 用于链接 FastYZ / TrueYZ）。
 
 ```sh
-git clone [<this repo>](https://github.com/conflucedd/MoreTrueYz.git) MoreTrueYz
+git clone https://github.com/conflucedd/MoreTrueYz.git
 cd MoreTrueYz
 go build ./...
 # 或者

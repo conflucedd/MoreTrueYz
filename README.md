@@ -67,16 +67,12 @@ MoreTrueYz/
 需要 Go（1.18+）和一个 C 编译器（cgo 用于链接 FastYZ / TrueYZ）。
 
 ```sh
-git clone <this repo> MoreTrueYz
+git clone [<this repo>](https://github.com/conflucedd/MoreTrueYz.git) MoreTrueYz
 cd MoreTrueYz
 go build ./...
 # 或者
 make            # 输出到 bin/
 ```
-
-> 模块路径目前是 `module moretrueyz`（纯本地路径）。若想用
-> `go install github.com/<你>/MoreTrueYz/cmd/moretrueyz@latest`，
-> 把 `go.mod` 的 module 改成你的仓库地址，并同步替换 `cmd/` 下的 import 前缀即可。
 
 ## 使用
 

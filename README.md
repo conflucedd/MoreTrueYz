@@ -2,6 +2,8 @@
 
 > 让《塞尔达传说：旷野之息》里的**全部 38614 个 Yaz0 文件**都能被逐字节复现。
 
+Update: There are seldom yaz0 are warpped by sarc, so there are 40129 yaz0 files, and all passed by my test.
+
 Note that the botw I used is wiiu japan version, and patch the main game using update folder(I know this is not recommend). The work's execute is mainly by Deepseek v4.1flash and Deepseek Harness.
 
 [TrueYZ](https://github.com/aboood40091/TrueYZ) 能复现任天堂 EAD/EPD 的 Yaz0 编码器输出，
